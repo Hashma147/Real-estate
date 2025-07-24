@@ -26,6 +26,10 @@ Google Fonts – for typography
 
 Flexbox/Grid – for responsive layout
 
+## 🚀 Demo
+
+[Live Demo](http://127.0.0.1:5500/home.html) 
+
 # 📸 Screenshots
 
 
