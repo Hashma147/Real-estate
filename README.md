@@ -31,4 +31,11 @@ Flexbox/Grid – for responsive layout
 
 ![real estate home page](https://github.com/user-attachments/assets/a01739dc-8e7e-4e31-8901-2bdf87c415b4)
 
+# 📌 Future Enhancements
+
+Property search & filter functionality.
+
+Integrate with a backend for dynamic property listings.
+
+Adding a booking/contact form with validation.
 
