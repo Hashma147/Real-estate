@@ -1,4 +1,4 @@
-# Real-estate
+# Real-estate 
 
 A responsive Real Estate Landing Page built using HTML5 and CSS3.
 
@@ -16,3 +16,12 @@ Contact form layout(non-functional in static version).
 
 Easy to customize structure and styles.
 
+# 🛠️ Technologies Used
+
+HTML5 – for semantic structure
+
+CSS3 – for styling and layout
+
+Google Fonts – for typography
+
+Flexbox/Grid – for responsive layout
