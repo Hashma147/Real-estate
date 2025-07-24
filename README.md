@@ -8,7 +8,7 @@ This project is designed to show case property listings, company details, and co
 
 Responsive landing page design.
 
-Property listings eith images and descriptiions.
+Property listings with images and descriptiions.
 
 About section for company information.
 
