@@ -25,3 +25,10 @@ CSS3 – for styling and layout
 Google Fonts – for typography
 
 Flexbox/Grid – for responsive layout
+
+# 📸 Screenshots
+
+
+![real estate home page](https://github.com/user-attachments/assets/a01739dc-8e7e-4e31-8901-2bdf87c415b4)
+
+
